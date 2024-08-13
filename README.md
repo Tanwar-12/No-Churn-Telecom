@@ -1,5 +1,6 @@
 # **DATA SCIENCE PROJECT:NO CHURN TELECOM**
-![image](https://github.com/user-attachments/assets/41094ad3-06b3-4cd2-9124-666c7ad462c7)
+![image](https://github.com/user-attachments/assets/41094ad3-06b3-4cd2-9124-666c7ad462c7)![image](https://github.com/user-attachments/assets/f3c1f704-19c4-41fd-8d5c-9a7087015fb0)
+
 
 ## **BUSINESS CASE: PREDICT WHETHER A CUSTOMER WILL CHURN (LEAVE THE SERVICE) OR NOT.**
 ## **TASK: CLASSIFICATION**
